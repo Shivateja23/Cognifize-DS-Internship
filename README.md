@@ -1,7 +1,8 @@
 ## Restaurant Rating Prediction
 
 This project is a machine learning-powered web application designed to predict restaurant ratings based on various attributes. It was developed as part of a Data Science Internship with Cognifize.
-Project Overview
+
+### Project Overview
 
 The global restaurant industry is highly competitive, and customer ratings play a crucial role in a restaurant's success. This project aims to address this by building a predictive model that can accurately estimate a restaurant's aggregate rating. The web application allows users to input various restaurant details and receive a predicted rating instantly.
 
@@ -22,3 +23,9 @@ The global restaurant industry is highly competitive, and customer ratings play 
 * Web Framework: Streamlit for building the interactive web application.
 
 * Serialization: joblib for saving and loading the trained model.
+
+
+### APP Deployment
+* This web app has been deployed using streamlit in the Streamlit web application.
+* Check out the project by refering the below link.
+* 
