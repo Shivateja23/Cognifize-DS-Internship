@@ -12,5 +12,4 @@ IDE files
 Model and data files that should not be tracked by Git
 Consider using Git LFS for large files if needed
 
-*.pkl
-*.ipynb_checkpoints/
+*.pkl/
