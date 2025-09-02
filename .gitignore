@@ -1,0 +1,16 @@
+Virtual environment
+
+.venv/
+Python-specific files
+
+pycache/
+*.pyc
+*.log
+IDE files
+
+.vscode/
+Model and data files that should not be tracked by Git
+Consider using Git LFS for large files if needed
+
+*.pkl
+*.ipynb_checkpoints/
