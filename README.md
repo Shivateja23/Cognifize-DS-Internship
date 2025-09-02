@@ -27,5 +27,5 @@ The global restaurant industry is highly competitive, and customer ratings play 
 
 ### APP Deployment
 * This web app has been deployed using streamlit in the Streamlit web application.
-* Check out the project by refering the below link.
+* Check out the project Restaurent rating app by refering the below link.
 * [click here](https://cognifize-ds-internship-nqggvnuvys9nb4fu8yelbi.streamlit.app/)
